@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
-    <link>//localhost:64760/</link>
-    <description>Recent content on Blowfish</description>
+    <title>MyBlog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on MyBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Abdulrhman)</managingEditor>
     <webMaster>youremail@example.com (Abdulrhman)</webMaster>
     <copyright>© 2025 Abdulrhman</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 21:33:02 +0300</lastBuildDate><atom:link href="//localhost:64760/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 10:15:00 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cybersecurity 101: Protecting Yourself in a Digital World</title>
-      <link>//localhost:64760/posts/blog/it/cybersecurity/</link>
+      <link>//localhost:1313/posts/blog/it/cybersecurity/</link>
       <pubDate>Wed, 19 Mar 2025 21:33:02 +0300</pubDate>
       <author>youremail@example.com (Abdulrhman)</author>
-      <guid>//localhost:64760/posts/blog/it/cybersecurity/</guid>
+      <guid>//localhost:1313/posts/blog/it/cybersecurity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>What Is Artificial Intelligence? A Beginner’s Guide</title>
-      <link>//localhost:64760/posts/blog/it/ai/</link>
+      <link>//localhost:1313/posts/blog/it/ai/</link>
       <pubDate>Wed, 19 Mar 2025 21:33:02 +0300</pubDate>
       <author>youremail@example.com (Abdulrhman)</author>
-      <guid>//localhost:64760/posts/blog/it/ai/</guid>
+      <guid>//localhost:1313/posts/blog/it/ai/</guid>
       <description></description>
       
     </item>

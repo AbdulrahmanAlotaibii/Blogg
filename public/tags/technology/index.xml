@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Blowfish</title>
-    <link>//localhost:64760/tags/technology/</link>
-    <description>Recent content in Technology on Blowfish</description>
+    <title>Technology on MyBlog</title>
+    <link>//localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on MyBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Abdulrhman)</managingEditor>
     <webMaster>youremail@example.com (Abdulrhman)</webMaster>
     <copyright>© 2025 Abdulrhman</copyright>
-    <lastBuildDate>Wed, 19 Mar 2025 21:33:02 +0300</lastBuildDate><atom:link href="//localhost:64760/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 21:33:02 +0300</lastBuildDate><atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cybersecurity 101: Protecting Yourself in a Digital World</title>
+      <link>//localhost:1313/posts/blog/it/cybersecurity/</link>
+      <pubDate>Wed, 19 Mar 2025 21:33:02 +0300</pubDate>
+      <author>youremail@example.com (Abdulrhman)</author>
+      <guid>//localhost:1313/posts/blog/it/cybersecurity/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>What Is Artificial Intelligence? A Beginner’s Guide</title>
-      <link>//localhost:64760/posts/blog/it/ai/</link>
+      <link>//localhost:1313/posts/blog/it/ai/</link>
       <pubDate>Wed, 19 Mar 2025 21:33:02 +0300</pubDate>
       <author>youremail@example.com (Abdulrhman)</author>
-      <guid>//localhost:64760/posts/blog/it/ai/</guid>
+      <guid>//localhost:1313/posts/blog/it/ai/</guid>
       <description></description>
       
     </item>
